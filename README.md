@@ -10,8 +10,8 @@ This repo is a structured guide for learning how Artificial Intelligence is tran
 ## 📚 Courses To Complete 
 | Course Title | Platform | Status | 
 |--------------|----------|--------| 
-| Real Estate Foundations | LinkedIn Learning | ✅ | 
-| AI Foundations: Machine Learning | LinkedIn Learning | 🔄 | 
+| Real Estate Foundations | LinkedIn Learning | 🔲 | 
+| AI Foundations: Machine Learning | LinkedIn Learning | 🔲 | 
 | AI in Marketing | LinkedIn Learning | 🔲 | 
 | OpenAI Projects with Python | LinkedIn Learning | 🔲 | 
  
